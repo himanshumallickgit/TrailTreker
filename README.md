@@ -19,7 +19,7 @@ If we are the author of the campground then, we can login into it and can also e
 
 ## Registration Page
 ![image](https://github.com/himanshumallickgit/YelpCamp/assets/122736543/5ef9dc19-09f0-4b40-9c9a-6f794c4d210e)
-With the help of authentication and auhorization, a user can resiter his account on the portal.
+With the help of authentication and auhorization, a user can regiter his account on the portal.
 
 ## Features
 ### 1. Campground Listings
