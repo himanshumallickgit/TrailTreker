@@ -18,6 +18,11 @@ MongoDB: Utilized for storing user accounts, campground details, and reviews. Th
 Mapbox API: Integrated to display clusters of campgrounds and detailed maps for individual locations. This feature helps users visualize campground locations and explore nearby sites.
 ### 5. Image Storage and Management
 Cloudinary: Employed for efficient storage and management of campground images. This ensures that images are optimized and readily accessible.
+
+## Home Page
+![image](https://github.com/himanshumallickgit/YelpCamp/assets/122736543/ad383200-32f0-4371-9652-e6ede679c7bc)
+Through Home Page we can login, register our accounts. We all also explore and view all the campgrounds.
+
 ## Tech Stack
 Frontend: HTML, CSS, JavaScript
 Backend: Node.js, Express.js
