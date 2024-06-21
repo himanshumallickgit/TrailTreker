@@ -1,0 +1,2 @@
+YelpCamp – Make and Explore Camps 2024
+YelpCamp is a comprehensive full-stack web application designed for campground enthusiasts. The platform simplifies the process of discovering and choosing campgrounds by providing detailed descriptions, reviews, images, and maps. This application enhances the user experience, helping outdoor enthusiasts plan their activities more effectively and efficiently.
