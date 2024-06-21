@@ -20,7 +20,7 @@ Mapbox API: Integrated to display clusters of campgrounds and detailed maps for 
 Cloudinary: Employed for efficient storage and management of campground images. This ensures that images are optimized and readily accessible.
 
 ## Home Page
-![image](https://github.com/himanshumallickgit/YelpCamp/assets/122736543/ad383200-32f0-4371-9652-e6ede679c7bc)
+[image](https://github.com/himanshumallickgit/YelpCamp/assets/122736543/ad383200-32f0-4371-9652-e6ede679c7bc)
 Through Home Page we can login, register our accounts. We all also explore and view all the campgrounds.
 
 ## Tech Stack
