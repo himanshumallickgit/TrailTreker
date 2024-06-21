@@ -44,4 +44,4 @@ Authentication: Passport.js
 Mapping: Mapbox API
 
 # Made By
-[link]https://github.com/himanshumallickgit/
+Himanshu Mallick
