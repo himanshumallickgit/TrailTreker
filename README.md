@@ -1,6 +1,6 @@
-# YelpCamp – Make and Explore Camps 2024
+# Trail Trekker – Make and Explore Camps 2024
 
-YelpCamp is a comprehensive full-stack web application designed for campground enthusiasts. The platform simplifies the process of discovering and choosing campgrounds by providing detailed descriptions, reviews, images, and maps. This application enhances the user experience, helping outdoor enthusiasts plan their activities more effectively and efficiently.
+Trail Trekker is a comprehensive full-stack web application designed for campground enthusiasts. The platform simplifies the process of discovering and choosing campgrounds by providing detailed descriptions, reviews, images, and maps. This application enhances the user experience, helping outdoor enthusiasts plan their activities more effectively and efficiently.
 
 ## Home Page
 ![image](https://github.com/himanshumallickgit/YelpCamp/assets/122736543/87e8c8d8-6a35-463f-bfaa-e456d57795b8)
@@ -44,7 +44,7 @@ Authentication: Passport.js
 Mapping: Mapbox API
 
 # Deployed Link
-https://yelpcamp-ivory.vercel.app/
+https://trail-treker-api.vercel.app/
 
 # Made By
 ## Himanshu Mallick
